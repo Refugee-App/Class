@@ -1,2 +1,0 @@
-# Class
-Created with CodeSandbox
